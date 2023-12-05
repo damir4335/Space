@@ -372,7 +372,6 @@ body._touch .menu__list > li._active .menu__arrow{
   height: 80%;
   min-width: 35px;
   min-height: 35px;
-  transform: rotate(0deg);
   transition: 0.5s;
 }
 .icon01{
@@ -425,7 +424,8 @@ body._touch .menu__list > li._active .menu__arrow{
   z-index: 4;
 }
 .page__link-icon:hover{
-  transform: rotate(360deg);
+  width: 16.5%;
+  height: 80.5%;
   transition: 0.5s;
 }
 @media (max-width: 767px) {
