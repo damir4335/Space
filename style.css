@@ -372,7 +372,7 @@ body._touch .menu__list > li._active .menu__arrow{
   height: 80%;
   min-width: 35px;
   min-height: 35px;
-  transition: 0.5s;
+  transition: 0.2s;
 }
 .icon01{
   position: absolute;
@@ -426,7 +426,7 @@ body._touch .menu__list > li._active .menu__arrow{
 .page__link-icon:hover{
   width: 16.5%;
   height: 80.5%;
-  transition: 0.5s;
+  transition: 0.2s;
 }
 @media (max-width: 767px) {
   .page__title-text{
